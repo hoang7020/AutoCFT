@@ -52,7 +52,7 @@ public class CFrame extends javax.swing.JFrame {
         factory.setRequestedHeartbeat(30);
         factory.setConnectionTimeout(30000);
         try {
-            factory.setUri("amqp://qjoahoff:Qxm4reMreDbVPRyDlie5PfuQEOe_SWR2@dinosaur.rmq.cloudamqp.com/qjoahoff");
+            factory.setUri("amqp://izsobjzi:nKqJVuWiD8MQtOE3WZaA5dsh69UAYpbP@mustang.rmq.cloudamqp.com/izsobjzi");
             connection = factory.newConnection();
             channel = connection.createChannel();
             channel.queueDeclare(QUEUE_NAME, false, false, true, null);
