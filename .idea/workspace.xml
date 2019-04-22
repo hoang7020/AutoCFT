@@ -6,7 +6,29 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92832d96-3848-4c9b-b3af-d7768d3bd3bc" name="Default Changelist" comment="" />
+    <list default="true" id="92832d96-3848-4c9b-b3af-d7768d3bd3bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/AutoOpenGoogleSearch_jar/AutoOpenGoogleSearch.jar" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/AutoOpenGoogleSearch_jar/AutoOpenGoogleSearch.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/ABCFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/ABCFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/MainFrame.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/MainFrame.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ServiceCreate.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/ServiceCreate.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/ABCFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/ABCFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/ABCFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/ABCFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/AFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/AFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/AFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/AFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/BFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/BFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/BFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/BFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/CFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/CFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/CFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/CFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/MainFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/MainFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/MainFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/MainFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/MainFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/MainFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/MainFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/MainFrame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/MainFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/MainFrame$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hoangpm/autoopengooglesearch/MainFrame.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,43 +38,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/MainFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/BFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="82" column="67" selection-start-line="82" selection-start-column="67" selection-end-line="82" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/CFrame.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/AFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="93" column="7" selection-start-line="93" selection-start-column="7" selection-end-line="93" selection-end-column="7" />
+            <state relative-caret-position="272">
+              <caret line="60" column="67" selection-start-line="60" selection-start-column="67" selection-end-line="60" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/MainFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/ABCFrame.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/AFrame.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/BFrame.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/CFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/ABCFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/AFrame.java" />
       </list>
     </option>
   </component>
@@ -67,7 +74,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -76,10 +82,37 @@
               <item name="AutoOpenGoogleSearch" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoOpenGoogleSearch" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AutoOpenGoogleSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoOpenGoogleSearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoOpenGoogleSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoOpenGoogleSearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoOpenGoogleSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoOpenGoogleSearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoOpenGoogleSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoOpenGoogleSearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="autoopengooglesearch" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,16 +167,19 @@
       <workItem from="1555675663079" duration="2628000" />
       <workItem from="1555697754480" duration="236000" />
       <workItem from="1555764337009" duration="59000" />
+      <workItem from="1555835629773" duration="399000" />
+      <workItem from="1555943822558" duration="55000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3241000" />
+    <option name="totallyTimeSpent" value="3695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -178,17 +214,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/ABCFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/CFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="74" column="58" selection-start-line="74" selection-start-column="58" selection-end-line="74" selection-end-column="58" />
+        <state relative-caret-position="631">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/AFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/BFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="86" column="12" lean-forward="true" selection-start-line="86" selection-start-column="12" selection-end-line="89" selection-end-column="15" />
+        <state relative-caret-position="631">
+          <caret line="82" column="67" selection-start-line="82" selection-start-column="67" selection-end-line="82" selection-end-column="67" />
         </state>
       </provider>
     </entry>
@@ -199,17 +235,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/BFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/ABCFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="82" column="67" selection-start-line="82" selection-start-column="67" selection-end-line="82" selection-end-column="67" />
+        <state relative-caret-position="-777">
+          <caret line="51" column="42" lean-forward="true" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/CFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hoangpm/autoopengooglesearch/AFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="93" column="7" selection-start-line="93" selection-start-column="7" selection-end-line="93" selection-end-column="7" />
+        <state relative-caret-position="272">
+          <caret line="60" column="67" selection-start-line="60" selection-start-column="67" selection-end-line="60" selection-end-column="67" />
         </state>
       </provider>
     </entry>
