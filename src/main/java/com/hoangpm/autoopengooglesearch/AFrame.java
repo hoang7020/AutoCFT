@@ -6,6 +6,7 @@
 package com.hoangpm.autoopengooglesearch;
 
 import com.google.gson.Gson;
+import com.hoangpm.autoopengooglesearch.utils.Constant;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
@@ -52,7 +53,7 @@ public class AFrame extends javax.swing.JFrame {
         factory.setRequestedHeartbeat(30);
         factory.setConnectionTimeout(30000);
         try {
-            factory.setUri("amqp://qjoahoff:Qxm4reMreDbVPRyDlie5PfuQEOe_SWR2@dinosaur.rmq.cloudamqp.com/qjoahoff");
+            factory.setUri(Constant.RABBIT_SERVER);
             connection = factory.newConnection();
             channel = connection.createChannel();
             channel.queueDeclare(QUEUE_NAME, false, false, true, null);
